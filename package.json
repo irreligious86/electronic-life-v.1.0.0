@@ -1,0 +1,19 @@
+{
+  "name": "electronic-life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irreligious86/electronic-life-v.1.0.0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/irreligious86/electronic-life-v.1.0.0/issues"
+  },
+  "homepage": "https://github.com/irreligious86/electronic-life-v.1.0.0#readme"
+}
